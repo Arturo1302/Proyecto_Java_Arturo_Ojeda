@@ -1,0 +1,11 @@
+========================================
+     REPORTE DE VENTAS - TECNOSTORE
+========================================
+
+ID:          1
+Cliente:     Arturo Ojeda
+Fecha:       2026-07-28
+Total:       1.904E7
+----------------------------------------
+
+TOTAL GENERAL DE VENTAS: 1.904E7
